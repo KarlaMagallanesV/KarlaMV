@@ -1,6 +1,5 @@
 server:
-  port: 8085
-
+  port: 8080
 spring:
   datasource:
     url: jdbc:sqlserver://localhost:1433;databaseName=model;encrypt=true;trustServerCertificate=true
